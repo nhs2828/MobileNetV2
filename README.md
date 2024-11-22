@@ -18,5 +18,5 @@ The result from training indicates a sign of overfitting
 <img width="701" alt="Screenshot 2024-11-14 at 23 07 44" src="https://github.com/user-attachments/assets/185f4ac8-fdef-4f70-9a20-d2bf66b84a05">
 
 !TODO:
-- Reduce the complexity of models
+- Tunning the complexity of models
 - Image augmenetation et pre-processing
